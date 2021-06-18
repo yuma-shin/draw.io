@@ -1,0 +1,1 @@
+![](img/nw_ote.drawio.svg)
